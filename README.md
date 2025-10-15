@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This is my **personal portfolio website**, showcasing my skills, education, projects, internships, and certifications as a **Full Stack Developer**.
+This is my **personal portfolio website**, showcasing my skills, education, projects, internships, and certifications as a **Front End Developer**.
 It is designed with a **modern, responsive layout**, smooth animations, and a clean UI to provide a professional presentation of my work and journey in software development.
 
 ---
