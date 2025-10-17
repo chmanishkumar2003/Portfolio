@@ -6,6 +6,7 @@ import { FaAws, FaDatabase, FaPython } from 'react-icons/fa';
 const Certifications: React.FC = () => {
   const [currentCert, setCurrentCert] = useState(0);
 
+  <!-About Certificates-!>
   const certifications = [
     {
       title: "Structured Query Language (SQL)",
