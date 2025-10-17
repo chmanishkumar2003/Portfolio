@@ -128,7 +128,7 @@ const Certifications: React.FC = () => {
                         </div>
                       </div>
 
-                      {/* ✅ View Certificate Button */}
+                      {/*  View Certificate Button */}
                       <a
                         href={certifications[currentCert].verificationUrl}
                         target="_blank"
