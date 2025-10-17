@@ -88,7 +88,7 @@ const Certifications: React.FC = () => {
                   className="glass-card p-8"
                 >
                   <div className="flex flex-col lg:flex-row gap-8">
-                    {/* Certificate Icon and Info */}
+                    {/* Certificate Info */}
                     <div className="flex-shrink-0 text-center lg:text-left">
                       <div
                         className={`inline-flex items-center justify-center w-24 h-24 rounded-full bg-gradient-to-br ${certifications[currentCert].color} mb-4`}
